@@ -1,0 +1,582 @@
+{
+    "nama_daerah": "KOMUNITAS KABUPATEN HULU SUNGAI TENGAH",
+    "nama_skpd": "",
+    "kode_skpd": "",
+    "tahun": 2024,
+    "logo": "logo_kab_hulu_sungai_tengah.png",
+    "nama_pa_kpa": "",
+    "nip_pa_kpa": "",
+    "jabatan_pa_kpa": "",
+    "nama_bp_bpp": "TEDDY TAUFANI, S. Sos",
+    "nip_bp_bpp": "197211101992031007",
+    "jabatan_bp_bpp": "BENDAHARA UMUM DAERAH",
+    "detail": [
+        {
+            "tanggal": "0001-01-01T00:00:00Z",
+            "nomor_dokumen": "",
+            "jenis": "",
+            "uraian": "Saldo Sebelumnya",
+            "penerimaan": 1262694171969.48,
+            "pengeluaran": 622781944346.59,
+            "saldo": 639912227622.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000049/LS/6.01.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji Bulan Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 192779276,
+            "saldo": 639719448346.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000087/LS/2.23.2.24.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Bulan Agustus Tahun 2024\n",
+            "penerimaan": 0,
+            "pengeluaran": 70960182,
+            "saldo": 639648488164.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000081/LS/2.12.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pemabayaran Gaji ORGD DISDUKCAPIL Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 89593483,
+            "saldo": 639558894681.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000064/LS/8.01.0.00.0.00.02.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI BULAN AGUSTUS TAHUN ANGGARAN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 63137053,
+            "saldo": 639495757628.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000129/LS/7.01.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 265116642,
+            "saldo": 639230640986.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000051/LS/7.01.0.00.0.00.06.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 52633176,
+            "saldo": 639178007810.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000058/LS/5.01.5.05.0.00.02.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 98245908,
+            "saldo": 639079761902.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000140/LS/2.11.2.15.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 197520289,
+            "saldo": 638882241613.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000057/LS/7.01.0.00.0.00.09.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": " Pembayaran Gaji Bulan Agustus 2024 Kec. Batara",
+            "penerimaan": 0,
+            "pengeluaran": 59131705,
+            "saldo": 638823109908.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000063/LS/7.01.0.00.0.00.10.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 82469902,
+            "saldo": 638740640006.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000044/LS/7.01.0.00.0.00.02.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 41381601,
+            "saldo": 638699258405.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000066/LS/7.01.0.00.0.00.08.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI TERUSAN BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 4927346,
+            "saldo": 638694331059.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000067/LS/7.01.0.00.0.00.08.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI PEGAWAI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 111706632,
+            "saldo": 638582624427.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000600/LS/1.01.2.22.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI TERUSAN BULAN AGUSTUS TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 15945956,
+            "saldo": 638566678471.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000432/LS/4.01.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji ASN Setda Kab HST Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 429340240,
+            "saldo": 638137338231.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000071/LS/2.16.2.21.2.20.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji ORGD u.b Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 62162808,
+            "saldo": 638075175423.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000152/LS/1.06.2.14.2.08.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 135574440,
+            "saldo": 637939600983.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000064/LS/5.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji ASN Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 133461355,
+            "saldo": 637806139628.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000084/LS/2.18.2.07.3.32.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 113065033,
+            "saldo": 637693074595.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000067/LS/2.09.3.25.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji ASN Bulan Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 91702790,
+            "saldo": 637601371805.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000116/LS/1.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 3763734159,
+            "saldo": 633837637646.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000117/LS/1.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI PPPC ANGKATAN 2023 BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1075981994,
+            "saldo": 632761655652.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000118/LS/1.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI PPPC ANGKATAN 2024 BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1184947749,
+            "saldo": 631576707903.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000149/LS/3.27.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji ORGD Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 514254943,
+            "saldo": 631062452960.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000150/LS/3.27.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji PPPC Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 112802662,
+            "saldo": 630949650298.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000433/LS/4.01.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji KDH dan WKDH bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 12168604,
+            "saldo": 630937481694.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000057/LS/4.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI TERUSAN KE 4 BULAN AN. HERMANSYAH NIP. 197608172008011034",
+            "penerimaan": 0,
+            "pengeluaran": 4130833,
+            "saldo": 630933350861.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000058/LS/4.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI SEKRETARIAT DWRR BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 87411451,
+            "saldo": 630845939410.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000059/LS/4.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "KEKURANGAN GAJI ORGD SEKRETARIAT DWRR BULAN APRIL S.D MEI 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1334149,
+            "saldo": 630844605261.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000060/LS/4.02.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "PEMBAYARAN GAJI DWRR BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1358009344,
+            "saldo": 629486595917.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000068/LS/2.09.3.25.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji Terusan ASN Bulan Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 4831920,
+            "saldo": 629481763997.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000042/LS/7.01.0.00.0.00.05.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Kecamatan Haruyan ub. Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 73374607,
+            "saldo": 629408389390.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000065/LS/7.01.0.00.0.00.04.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 52832552,
+            "saldo": 629355556838.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000035/LS/1.05.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji ORGD Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 98467850,
+            "saldo": 629257088988.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000290/LS/1.03.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 219588048,
+            "saldo": 629037500940.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000601/LS/1.01.2.22.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 8289750069,
+            "saldo": 620747750871.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000602/LS/1.01.2.22.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI PPPC BULAN AGUSTUS TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1705373892,
+            "saldo": 619042376979.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000603/LS/1.01.2.22.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI PPPC BULAN AGUSTUS AKT 2023 TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1442575495,
+            "saldo": 617599801484.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000604/LS/1.01.2.22.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI PPPC BULAN AGUSTUS AKT 2024 TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 1662273905,
+            "saldo": 615937527579.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000085/LS/1.05.1.06.0.00.02.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Bulan Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 70558171,
+            "saldo": 615866969408.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000069/LS/3.30.3.31.2.17.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 165736774,
+            "saldo": 615701232634.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000068/LS/2.13.0.00.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji ORGD Bulan Agustus 2024",
+            "penerimaan": 0,
+            "pengeluaran": 73989105,
+            "saldo": 615627243529.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000067/LS/1.04.2.10.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran Gaji Bulan Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 62289408,
+            "saldo": 615564954121.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000071/LS/7.01.0.00.0.00.03.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ASN BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 94625701,
+            "saldo": 615470328420.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000052/LS/5.02.0.00.0.00.02.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ASN BULAN AGUSTUS TAHUN 2024",
+            "penerimaan": 0,
+            "pengeluaran": 84234965,
+            "saldo": 615386093455.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000082/LS/2.19.3.26.0.00.01.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 64211893,
+            "saldo": 615321881562.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000039/LS/7.01.0.00.0.00.11.0000/M/7/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Gaji Agustus Tahun 2024",
+            "penerimaan": 0,
+            "pengeluaran": 69283106,
+            "saldo": 615252598456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000141/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Pembayaran 100 % atas Pekerjaan Meterisasi PJU di Desa Pengambau dan Ilung Kab. HST sesuai Surat Pesanan No : 800/381/DLHP/2024, Tanggal 16 Juli 2024 sebesar Rp.79.381.000-\t",
+            "penerimaan": 0,
+            "pengeluaran": 79381000,
+            "saldo": 615173217456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000142/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Pemungut Retribusi Terminal Pantai Hambawang utk bln Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 8800000,
+            "saldo": 615164417456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000143/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Kerja Petugas Kebersihan (pasukan kuning), Angkutan Truk, Drainase, Sungai,Penyapu & TPST,Petugas Operator Alat Berat TPA ,Jembatan Timbang, SopirAngkutan Sampah, Jaga Malam TPA dan Admin Persampahan untuk bln Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 510280000,
+            "saldo": 614654137456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000144/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Kerja Petugas RTH, Petugas Teknisi PJU & Taman untuk bulan Juli 2024\n",
+            "penerimaan": 0,
+            "pengeluaran": 38200000,
+            "saldo": 614615937456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000145/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Tenaga Operator Komputer PPLHD untuk bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 2500000,
+            "saldo": 614613437456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000146/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Belanja Jasa Tenaga Pelayanan Umum (Fasilitator Penanganan dan Pengurangan Persampahan) untuk Bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 10500000,
+            "saldo": 614602937456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000147/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Tenaga Administrasi/Surat Menyurat, Operator Komputer dan Pengelolaan Informasi & Dokumentasi Pembantu untuk Bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 6500000,
+            "saldo": 614596437456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000148/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Parkir Elektronik (Petugas Pos Retribusi, Petugas Pangatur/Penataan Parkir, Operator Server, Petugas Keamanan Ketertiban dan Petugas Jaga Malam, Admin Komp, IT, & Pengamanan Arus Keluar)\nutk bln Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 443550000,
+            "saldo": 614152887456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000149/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Tenaga IT Sistem Informasi Managemen PKB, Operator Komputer PKB ntuk bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 9000000,
+            "saldo": 614143887456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000150/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Penerangan Jalan Umum bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 28000000,
+            "saldo": 614115887456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000151/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Petugas Pengatur Rekayasa Lalu Lintas untuk bulan Juli 2024",
+            "penerimaan": 0,
+            "pengeluaran": 24000000,
+            "saldo": 614091887456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000152/LS/2.11.2.15.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Upah Manajer Teknis, Manajer Administrasi, Tenaga Admin, Tenaga Penguji,Petugas\nKebersihan, Jaga Malam dan Sopir Laboratorium Lingkungan untuk bln Juli 2024\n",
+            "penerimaan": 0,
+            "pengeluaran": 23900000,
+            "saldo": 614067987456.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000068/GU/1.04.2.10.0.00.01.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Ganti Uang Persediaan 8 Berdasarkan LPJ No 63.07/10.0/000014/LPJ-BP/UP/1.04.2.10.0.00.01.0000/P5/7/2021 Tahun Anggaran 2024 Dinas Perumahan Rakyat dan Kawasan Permukiman.",
+            "penerimaan": 0,
+            "pengeluaran": 139644357,
+            "saldo": 613928343099.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000039/LS/7.01.0.00.0.00.07.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "GAJI ORGD BULAN AGUSTUS 2024",
+            "penerimaan": 0,
+            "pengeluaran": 67790523,
+            "saldo": 613860552576.89
+        },
+        {
+            "tanggal": "2024-08-01T00:00:00Z",
+            "nomor_dokumen": "63.07/04.0/000040/LS/7.01.0.00.0.00.07.0000/M/8/2024 (01/Aug/2024)",
+            "jenis": "SP2D",
+            "uraian": "Tambahan Penghasilan ORGD bulan Mei 2024",
+            "penerimaan": 0,
+            "pengeluaran": 33683978,
+            "saldo": 613826868598.89
+        }
+    ]
+}

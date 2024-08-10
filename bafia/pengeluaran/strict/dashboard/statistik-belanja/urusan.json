@@ -1,0 +1,17 @@
+[
+    {
+        "id_daerah": 295,
+        "tahun": 2024,
+        "id_urusan": 15,
+        "id_skpd": 65,
+        "id_sub_skpd": 65,
+        "kode_sub_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_sub_skpd": "Komunitas Keuagan Daerah",
+        "id_bidang_urusan": 236,
+        "kode_bidang_urusan": "5.02",
+        "nama_bidang_urusan": "KEUANGAN",
+        "anggaran": 255724922063,
+        "realisasi_rencana": 48647049052,
+        "realisasi_rill": 48309384978
+    }
+]

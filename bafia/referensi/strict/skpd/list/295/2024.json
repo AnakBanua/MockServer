@@ -1,0 +1,182 @@
+[
+    {
+        "id_skpd": 53,
+        "kode_skpd": "1.01.2.22.0.00.01.0000",
+        "nama_skpd": "Komunitas Pendidikan"
+    },
+    {
+        "id_skpd": 54,
+        "kode_skpd": "1.02.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Kesehatan"
+    },
+    {
+        "id_skpd": 56,
+        "kode_skpd": "1.03.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Pekerjaan Umum dan Penataan Ruang"
+    },
+    {
+        "id_skpd": 57,
+        "kode_skpd": "1.04.2.10.0.00.01.0000",
+        "nama_skpd": "Komunitas Perumahan Rakyat dan Kawasan Permukiman"
+    },
+    {
+        "id_skpd": 58,
+        "kode_skpd": "1.05.0.00.0.00.01.0000",
+        "nama_skpd": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
+    },
+    {
+        "id_skpd": 61,
+        "kode_skpd": "1.05.1.06.0.00.02.0000",
+        "nama_skpd": "Komunitas Penanggulangan Bencana Lokal"
+    },
+    {
+        "id_skpd": 60,
+        "kode_skpd": "1.06.2.14.2.08.01.0000",
+        "nama_skpd": "Komunitas Sosial Pengendalian Penduduk Keluarga Berencana Pemberdayaan Perempuan dan Perlindungan Anak"
+    },
+    {
+        "id_skpd": 62,
+        "kode_skpd": "2.09.3.25.0.00.01.0000",
+        "nama_skpd": "Komunitas Ketahanan Pangan dan Perikanan"
+    },
+    {
+        "id_skpd": 63,
+        "kode_skpd": "2.11.2.15.0.00.01.0000",
+        "nama_skpd": "Komunitas Lingkungan Hidup dan Perhubungan"
+    },
+    {
+        "id_skpd": 64,
+        "kode_skpd": "2.12.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Kependudukan dan Pencatatan Sipil"
+    },
+    {
+        "id_skpd": 73,
+        "kode_skpd": "2.13.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Pemberdayaan Masyarakat dan Desa"
+    },
+    {
+        "id_skpd": 75,
+        "kode_skpd": "2.16.2.21.2.20.01.0000",
+        "nama_skpd": "Komunitas Komunikasi dan Informatika"
+    },
+    {
+        "id_skpd": 76,
+        "kode_skpd": "2.18.2.07.3.32.01.0000",
+        "nama_skpd": "Komunitas Penanaman Modal, PTSP dan Tenaga Kerja"
+    },
+    {
+        "id_skpd": 77,
+        "kode_skpd": "2.19.3.26.0.00.01.0000",
+        "nama_skpd": "Komunitas Kepemudaan, Olahraga dan Pariwisata"
+    },
+    {
+        "id_skpd": 78,
+        "kode_skpd": "2.23.2.24.0.00.01.0000",
+        "nama_skpd": "Komunitas Perpustakaan"
+    },
+    {
+        "id_skpd": 79,
+        "kode_skpd": "3.27.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Pertanian"
+    },
+    {
+        "id_skpd": 80,
+        "kode_skpd": "3.30.3.31.2.17.01.0000",
+        "nama_skpd": "Komunitas Perdagangan"
+    },
+    {
+        "id_skpd": 82,
+        "kode_skpd": "4.01.0.00.0.00.01.0000",
+        "nama_skpd": "Sekretariat Lokal"
+    },
+    {
+        "id_skpd": 83,
+        "kode_skpd": "4.02.0.00.0.00.01.0000",
+        "nama_skpd": "Sekretariat DWRL"
+    },
+    {
+        "id_skpd": 74,
+        "kode_skpd": "5.01.5.05.0.00.02.0000",
+        "nama_skpd": "Komunitas Perencanaan Pembangunan, Penelitian dan Pengembangan Lokal"
+    },
+    {
+        "id_skpd": 65,
+        "kode_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_skpd": "Komunitas Keuangan dan Aset Lokal"
+    },
+    {
+        "id_skpd": 95,
+        "kode_skpd": "5.02.0.00.0.00.02.0000",
+        "nama_skpd": "Komunitas Pengelola Pajak dan Retribusi Lokal"
+    },
+    {
+        "id_skpd": 96,
+        "kode_skpd": "5.03.5.04.0.00.01.0000",
+        "nama_skpd": "Komunitas Kepegawaian dan Pengembangan Sumberdaya Manusia Lokal"
+    },
+    {
+        "id_skpd": 81,
+        "kode_skpd": "6.01.0.00.0.00.01.0000",
+        "nama_skpd": "Inspektorat"
+    },
+    {
+        "id_skpd": 84,
+        "kode_skpd": "7.01.0.00.0.00.01.0000",
+        "nama_skpd": "Kecamatan Barabai"
+    },
+    {
+        "id_skpd": 85,
+        "kode_skpd": "7.01.0.00.0.00.02.0000",
+        "nama_skpd": "Kecamatan Pandawan"
+    },
+    {
+        "id_skpd": 86,
+        "kode_skpd": "7.01.0.00.0.00.03.0000",
+        "nama_skpd": "Kecamatan Labuan Amas Selatan"
+    },
+    {
+        "id_skpd": 87,
+        "kode_skpd": "7.01.0.00.0.00.04.0000",
+        "nama_skpd": "Kecamatan Labuan Amas Utara"
+    },
+    {
+        "id_skpd": 88,
+        "kode_skpd": "7.01.0.00.0.00.05.0000",
+        "nama_skpd": "Kecamatan Haruyan"
+    },
+    {
+        "id_skpd": 89,
+        "kode_skpd": "7.01.0.00.0.00.06.0000",
+        "nama_skpd": "Kecamatan Batu Benawa"
+    },
+    {
+        "id_skpd": 90,
+        "kode_skpd": "7.01.0.00.0.00.07.0000",
+        "nama_skpd": "Kecamatan Hantakan"
+    },
+    {
+        "id_skpd": 91,
+        "kode_skpd": "7.01.0.00.0.00.08.0000",
+        "nama_skpd": "Kecamatan Batang Alai Selatan"
+    },
+    {
+        "id_skpd": 92,
+        "kode_skpd": "7.01.0.00.0.00.09.0000",
+        "nama_skpd": "Kecamatan Batang Alai Utara"
+    },
+    {
+        "id_skpd": 93,
+        "kode_skpd": "7.01.0.00.0.00.10.0000",
+        "nama_skpd": "Kecamatan Batang Alai Timur"
+    },
+    {
+        "id_skpd": 94,
+        "kode_skpd": "7.01.0.00.0.00.11.0000",
+        "nama_skpd": "Kecamatan Limpasu"
+    },
+    {
+        "id_skpd": 59,
+        "kode_skpd": "8.01.0.00.0.00.02.0000",
+        "nama_skpd": "Komunitas Kesatuan Bangsa dan Politik"
+    }
+]

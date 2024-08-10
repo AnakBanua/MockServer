@@ -1,0 +1,50 @@
+[
+    {
+        "id_daerah": 295,
+        "tahun": 2024,
+        "id_urusan": 15,
+        "id_bidang_urusan": 236,
+        "id_skpd": 65,
+        "id_sub_skpd": 65,
+        "kode_sub_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_sub_skpd": "Komunitas Keuagan Daerah",
+        "id_program": 1186,
+        "kode_program": "5.02.01",
+        "nama_program": "PROGRAM PENUNJANG URUSAN KOMUNITAS DAERAH KABUPATEN/KOTA",
+        "anggaran": 7843123464,
+        "realisasi_rencana": 2738540055,
+        "realisasi_rill": 2738540055
+    },
+    {
+        "id_daerah": 295,
+        "tahun": 2024,
+        "id_urusan": 15,
+        "id_bidang_urusan": 236,
+        "id_skpd": 65,
+        "id_sub_skpd": 65,
+        "kode_sub_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_sub_skpd": "Komunitas Keuagan Daerah",
+        "id_program": 1164,
+        "kode_program": "5.02.02",
+        "nama_program": "PROGRAM PENGELOLAAN KEUANGAN DAERAH",
+        "anggaran": 246328104699,
+        "realisasi_rencana": 45558908117,
+        "realisasi_rill": 45231277061
+    },
+    {
+        "id_daerah": 295,
+        "tahun": 2024,
+        "id_urusan": 15,
+        "id_bidang_urusan": 236,
+        "id_skpd": 65,
+        "id_sub_skpd": 65,
+        "kode_sub_skpd": "5.02.0.00.0.00.01.0000",
+        "nama_sub_skpd": "Komunitas Keuagan Daerah",
+        "id_program": 1165,
+        "kode_program": "5.02.03",
+        "nama_program": "PROGRAM PENGELOLAAN BARANG MILIK DAERAH",
+        "anggaran": 1553693900,
+        "realisasi_rencana": 349600880,
+        "realisasi_rill": 339567862
+    }
+]
