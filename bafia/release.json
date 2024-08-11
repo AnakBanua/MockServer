@@ -1,0 +1,26 @@
+{
+  "version": "1.0.21",
+  "release_date": "2024-08-10",
+  "features": [
+    {
+      "title": "Tampilan Baru dan tambahan Autentikasi",
+      "description": "penambahan fungsi dan tampilan baru dengan autentikasi menggunakan Biometric/PIN."
+    },
+    {
+      "title": "Performa lebik bagus dan aman",
+      "description": "Optimasi aplikasi agar berjalan lebih cepat dan mendukung keamanan data."
+    },
+    {
+      "title": "Fitur Connectivity Check & Info versi app",
+      "description": "penambahan fungsi cek koneksi realtime untuk perbaruan data yg lebih akurat serta fitur update aplikasi langsung."
+    },
+    {
+      "title": "Fitur Tracking Belanja",
+      "description": "penambahan fitur tracking untuk mempermudah pencarian status pengajuan belanja."
+    }
+  ],
+  "url_image": "#",
+  "namespace_android": "com.urangbanua.bafia",
+  "minimum_os_android": "10",
+  "url_download_apk": "https://github.com/UrangBanua/BaFiA/releases/download/v1.0.21/bafia-release_v1.0.21.apk"
+}
