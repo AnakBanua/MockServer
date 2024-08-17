@@ -1,0 +1,55 @@
+{
+    "status": true,
+    "message": "Successfully retrieved data",
+    "data": {
+        "total": 231,
+        "filtered": 231,
+        "list": [
+            {
+                "id": 46588,
+                "nomor": "63.07/04.0/000053/LS/5.02.0.00.0.00.01.0000/M/7/2024",
+                "tanggal": "2024-07-04",
+                "nilai_total": 27216900,
+                "keterangan": "Honorarium Pengelola Keuangan Daerah Bulan Juni 2024",
+                "created_at": "2024-07-03T07:25:33.074495Z",
+                "updated_at": "0000-12-31T16:52:48.000000Z",
+                "status_aklap": 0,
+                "jurnal_id": 0,
+                "nomor_jurnal": "",
+                "tipe": "sp2d"
+            },
+            {
+                "id": 46014,
+                "nomor": "63.07/04.0/000052/LS/5.02.0.00.0.00.01.0000/M/7/2024",
+                "tanggal": "2024-07-03",
+                "nilai_total": 55000500,
+                "keterangan": "Pembayaran 100% Pengadaan Personal Computer, Laptop, dan Tablet Badan Pengelola Keuangan dan Aset Daerah Hulu Sungai Tengah dengan PT. Borneo Computer Barabai sesuai Surat Pesanan Nomor 000.3.2/03/51409977/BPKAD/2024",
+                "created_at": "2024-07-02T17:26:51.344437Z",
+                "updated_at": "0000-12-31T16:52:48.000000Z",
+                "status_aklap": 0,
+                "jurnal_id": 0,
+                "nomor_jurnal": "",
+                "tipe": "sp2d"
+            },
+            {
+                "id": 46013,
+                "nomor": "63.07/04.0/000051/LS/5.02.0.00.0.00.01.0000/M/7/2024",
+                "tanggal": "2024-07-03",
+                "nilai_total": 110299500,
+                "keterangan": "Pembayaran 100% Pengadaan Personal Computer, Laptop, dan Tablet Badan Pengelola Keuangan dan Aset Daerah Kabupaten Hulu Sungai Tengah dengan PT. Borneo Computer Barabai sesuai Surat Pesanan Nomor 000.3.2/03/5149977/BPKAD/2024 tanggal 02 Mei 2024",
+                "created_at": "2024-07-02T17:25:36.497144Z",
+                "updated_at": "0000-12-31T16:52:48.000000Z",
+                "status_aklap": 0,
+                "jurnal_id": 0,
+                "nomor_jurnal": "",
+                "tipe": "sp2d"
+            }
+        ],
+        "pagination": {
+            "current_page": 1,
+            "max_page": 77,
+            "min_page": 1
+        },
+        "length": 3
+    }
+}
