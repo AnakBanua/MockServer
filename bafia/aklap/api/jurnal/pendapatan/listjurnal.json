@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "data": [
+        {
+            "kode_rekening": "3.1.02.05.01.0001",
+            "nama_rekening": "Estimasi Perubahan SAL",
+            "akun": "LRA",
+            "metode": "lainnya",
+            "position": "debet",
+            "nilai": "8777697194",
+            "jurnal": 1,
+            "skenario": "Penerimaan Pendapatan selain Pajak dan Retribusi pada Rekening Bendahara Penerimaan Tanpa Penetapan",
+            "skenario_id": 104,
+            "satuan_kerja": "skpd"
+        },
+        {
+            "kode_rekening": "4.2.01.01.03.0060",
+            "nama_rekening": "DAK Fisik-Bidang Kesehatan dan KB-Reguler-Penguatan Sistem Kesehatan",
+            "akun": "LRA",
+            "metode": "lainnya",
+            "position": "kredit",
+            "nilai": "8777697194",
+            "jurnal": 1,
+            "skenario": "Penerimaan Pendapatan selain Pajak dan Retribusi pada Rekening Bendahara Penerimaan Tanpa Penetapan",
+            "skenario_id": 104,
+            "satuan_kerja": "skpd"
+        },
+        {
+            "kode_rekening": "1.1.01.01.01.0001",
+            "nama_rekening": "Kas di Kas Daerah",
+            "akun": "NERACA",
+            "metode": "lainnya",
+            "position": "debet",
+            "nilai": "8777697194",
+            "jurnal": 2,
+            "skenario": "Penerimaan Pendapatan selain Pajak dan Retribusi pada Rekening Bendahara Penerimaan Tanpa Penetapan",
+            "skenario_id": 104,
+            "satuan_kerja": "skpd"
+        },
+        {
+            "kode_rekening": "7.2.01.01.03.0060",
+            "nama_rekening": "DAK Fisik-Bidang Kesehatan dan KB-Reguler-Penguatan Sistem Kesehatan-LO",
+            "akun": "NERACA",
+            "metode": "lainnya",
+            "position": "kredit",
+            "nilai": "8777697194",
+            "jurnal": 2,
+            "skenario": "Penerimaan Pendapatan selain Pajak dan Retribusi pada Rekening Bendahara Penerimaan Tanpa Penetapan",
+            "skenario_id": 104,
+            "satuan_kerja": "skpd"
+        }
+    ]
+}
