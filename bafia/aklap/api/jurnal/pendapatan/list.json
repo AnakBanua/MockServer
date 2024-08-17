@@ -1,0 +1,52 @@
+{
+    "status": true,
+    "response": 200,
+    "message": "Berhasil Memuat Transaksi Pendapatan",
+    "data": [
+        {
+            "id_stbp": 54338,
+            "id_daerah": 295,
+            "id_sub_skpd": 65,
+            "nomor_stbp": "63.07/41.0/000340/STBP/5.02.0.00.0.00.01.0000/8/2024",
+            "tanggal_stbp": "2024-08-07",
+            "tanggal_stbp_akhir": "2024-08-07",
+            "status_aklap": 3,
+            "id_jurnal": 523904,
+            "nomor_jurnal": "63.07/11.0/000076/JUR-PEND/SSP/5.02.0.00.0.00.01.0000/08/2024",
+            "nilai_stbp": "43890000",
+            "keterangan_stbp": "Setoran atas Temuan BPK TA. 2023 CV. Salsabila Bangun Banua atas kekurangan volume pekerjaan rekonstruksi jalan (DAU) ruas jalan pancur bungur-niwa'ang ",
+            "jenis": 1
+        },
+        {
+            "id_stbp": 54336,
+            "id_daerah": 295,
+            "id_sub_skpd": 65,
+            "nomor_stbp": "63.07/41.0/000339/STBP/5.02.0.00.0.00.01.0000/8/2024",
+            "tanggal_stbp": "2024-08-07",
+            "tanggal_stbp_akhir": "2024-08-07",
+            "status_aklap": 3,
+            "id_jurnal": 523905,
+            "nomor_jurnal": "63.07/11.0/000077/JUR-PEND/SSP/5.02.0.00.0.00.01.0000/08/2024",
+            "nilai_stbp": "12553700",
+            "keterangan_stbp": "Setoran atas Temuan BPK TA. 2023 CV. Salsabila Mandiri atas kekurangan volume pekerjaan penanganan jalan kabupaten (DAK) ruas jalan simpang ilung-labunganak",
+            "jenis": 1
+        },
+        {
+            "id_stbp": 53947,
+            "id_daerah": 295,
+            "id_sub_skpd": 65,
+            "nomor_stbp": "63.07/41.0/000336/STBP/5.02.0.00.0.00.01.0000/8/2024",
+            "tanggal_stbp": "2024-08-02",
+            "tanggal_stbp_akhir": "2024-08-02",
+            "status_aklap": 3,
+            "id_jurnal": 523907,
+            "nomor_jurnal": "63.07/11.0/000079/JUR-PEND/SSP/5.02.0.00.0.00.01.0000/08/2024",
+            "nilai_stbp": "989975250",
+            "keterangan_stbp": "DAK Fisik Penugasan Bidang Kesehatan Subbidang Keluarga Berencana Tahap 2",
+            "jenis": 1
+        }
+    ],
+    "page": 1,
+    "max": 3,
+    "count": 341
+}
