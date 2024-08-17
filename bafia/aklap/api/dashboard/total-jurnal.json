@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "data": {
+        "anggaran": 6,
+        "pendapatan": 422,
+        "belanja": 299,
+        "pembiayaan": {
+            "pengeluaran": 0,
+            "penerimaan": 0,
+            "total": 0
+        },
+        "transaksi_non_anggaran": 0,
+        "jurnal_umum": 10
+    },
+    "response_code": 200
+}
