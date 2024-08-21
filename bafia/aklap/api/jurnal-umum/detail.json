@@ -1,0 +1,82 @@
+{
+    "status": true,
+    "message": "Successfully retrieved data",
+    "data": {
+        "id": 425334,
+        "journal_number": "63.07/09.0/000002/JU/JURNAL-UMUM/1.02.0.00.0.00.01.0000/07/2024",
+        "sec_docnum_source": "1-02.0-00.0-00.1.1.22/SPB/00001/01/2024",
+        "sec_docdate": "2024-03-31",
+        "description": "Pendapatan Dana Kapitasi Puskesmas Barikin Periode Januari sampai Maret 2024",
+        "journal_date": "2024-03-31",
+        "skpd_id": 54,
+        "daerah_id": 295,
+        "journal_types_id": 1,
+        "journal_reject_reason_id": 3,
+        "created_at": "2024-07-19 21:21:18",
+        "skpd_name": "Dinas Kesehatan",
+        "journal_type_name": "Jurnal Umum",
+        "reject_reasons": "Jurnal Salah",
+        "detail": [
+            {
+                "id": 2435570,
+                "account_id": 58600,
+                "code": "1.1.01.06.01.0001",
+                "name": "Kas Dana Kapitasi pada FKTP ",
+                "position": "debet",
+                "amount": 114813980,
+                "report_type": null,
+                "is_ppkd": false,
+                "is_dampak_lpe": false,
+                "is_dampak_lpe_lain": false,
+                "is_koreksi_lpsal": false,
+                "is_koreksi_lpsal_lain_lain": false,
+                "is_koreksi_aset_tetap": false
+            },
+            {
+                "id": 2435571,
+                "account_id": 98789,
+                "code": "7.1.04.18.01.0001",
+                "name": "Pendapatan Dana Kapitasi JKN pada FKTP-LO ",
+                "position": "kredit",
+                "amount": 114813980,
+                "report_type": null,
+                "is_ppkd": false,
+                "is_dampak_lpe": false,
+                "is_dampak_lpe_lain": false,
+                "is_koreksi_lpsal": false,
+                "is_koreksi_lpsal_lain_lain": false,
+                "is_koreksi_aset_tetap": false
+            },
+            {
+                "id": 2435572,
+                "account_id": 87018,
+                "code": "3.1.02.05.01.0001",
+                "name": "Estimasi Perubahan SAL",
+                "position": "debet",
+                "amount": 114813980,
+                "report_type": null,
+                "is_ppkd": false,
+                "is_dampak_lpe": false,
+                "is_dampak_lpe_lain": false,
+                "is_koreksi_lpsal": false,
+                "is_koreksi_lpsal_lain_lain": false,
+                "is_koreksi_aset_tetap": false
+            },
+            {
+                "id": 2435573,
+                "account_id": 87768,
+                "code": "4.1.04.18.01.0001",
+                "name": "Pendapatan Dana Kapitasi JKN pada FKTP",
+                "position": "kredit",
+                "amount": 114813980,
+                "report_type": null,
+                "is_ppkd": false,
+                "is_dampak_lpe": false,
+                "is_dampak_lpe_lain": false,
+                "is_koreksi_lpsal": false,
+                "is_koreksi_lpsal_lain_lain": false,
+                "is_koreksi_aset_tetap": false
+            }
+        ]
+    }
+}
